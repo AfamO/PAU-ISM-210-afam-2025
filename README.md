@@ -1,7 +1,6 @@
-The project is made up of 5 parts:
-JS Reveiw
-ES 6 Reviews
-TypeScript project and codes, 
-React.js project and codes
-and finally
-React Native projects and codes
+### This mega project has 5 parts and sub-projects:
+##### Classical JS Review
+##### ES6 Review
+##### Promise Review
+##### Typescript-React Project and quick Overeview using Vite builder
+##### About 3 mobile apps projects using React Native
